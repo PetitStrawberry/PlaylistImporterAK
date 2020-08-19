@@ -13,7 +13,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="32dp"
         android:layout_marginEnd="24dp"
-        android:text="SDカードなどの外部ストレージ、または内蔵ストレージのルートディレクトリにToPlaylistsフォルダを作成し、そこにm3u/m3u8ファイルを転送してください。"
+        android:text="SDカードなどの外部ストレージ、または内部ストレージのルートディレクトリにToPlaylistsフォルダを作成し、そこにm3u/m3u8ファイルを転送してください。"
         android:textAlignment="viewStart"
         android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
