@@ -20,7 +20,8 @@ APKEditorなどで署名を書き換えるなりしてOpenAppService画面から
 - 設定画面からストレージへのアクセスを許可
 
 ## 初回以降
-1. ToPlaylistsフォルダにm3u/m3u8ファイルを転送
-2. USB接続解除
-3. おしまい
+1. USB接続(MTP)
+2. ToPlaylistsフォルダにm3u/m3u8ファイルを転送
+3. USB接続解除
+4. おしまい
 
