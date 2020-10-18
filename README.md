@@ -13,9 +13,8 @@ m3u/m3u8形式の外部プレイリストをDAP内部のプレイリストデー
 
 # インストール
 [リリース](https://github.com/PetitStrawberry/PlaylistImporterAK/releases)からダウンロードして、
-APKEditorなどでパッケージ名を書き換えるなりしてOpenAppService画面からインストール
+APKEditorなどで[パッケージ名を書き換える](https://gist.github.com/PetitStrawberry/c7477b1c0f6d0faa845c9cff841440f1)なりしてOpenAppService画面からインストール
 
-[参考](https://gist.github.com/PetitStrawberry/c7477b1c0f6d0faa845c9cff841440f1)
 
 # 使い方
 ## 初回のみ
