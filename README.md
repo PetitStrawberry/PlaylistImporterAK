@@ -15,6 +15,8 @@ m3u/m3u8形式の外部プレイリストをDAP内部のプレイリストデー
 [リリース](https://github.com/PetitStrawberry/PlaylistImporterAK/releases)からダウンロードして、
 APKEditorなどでパッケージ名を書き換えるなりしてOpenAppService画面からインストール
 
+[参考](https://gist.github.com/PetitStrawberry/c7477b1c0f6d0faa845c9cff841440f1)
+
 # 使い方
 ## 初回のみ
 - 内部ストレージまたはSDカードなどの外部ストレージのルートディレクトリにToPlaylistsフォルダを作成
