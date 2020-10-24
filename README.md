@@ -8,7 +8,7 @@ AK DAP(第4世代)向けのアプリです。
 
 その他の挙動の詳細はアプリ内に書いてます。
 
-<img src="screenshot.jpg" alt="screenshot" width="80%"/>
+<img src="screenshot.jpg" alt="screenshot" width="320"/>
 
 # 注意
 - Macとの接続前提として作ったのでWindowsのパス形式ではうまく動作しないかもしれません。
