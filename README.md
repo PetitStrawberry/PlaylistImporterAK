@@ -6,9 +6,7 @@ AK DAP(第4世代)向けのアプリです。
 
 (公式に再対応されそうなのでもはや必要なくなりそうです。そのようなわけで、ここに放流することで供養とします。)
 
-その他の挙動の詳細はアプリ内に書いてます。
-
-<img src="screenshot.jpg" alt="screenshot" width="320"/>
+その他の挙動の詳細は[アプリ内](#スクリーンショット)に書いてます。
 
 # 注意
 - Macとの接続前提として作ったのでWindowsのパス形式ではうまく動作しないかもしれません。
@@ -30,4 +28,7 @@ APKEditorなどで[パッケージ名を書き換える](https://gist.github.com
 2. ToPlaylistsフォルダにm3u/m3u8ファイルを転送
 3. USB接続解除
 4. おしまい
+
+# スクリーンショット
+<img src="screenshot.jpg" alt="screenshot" width="320"/>
 
